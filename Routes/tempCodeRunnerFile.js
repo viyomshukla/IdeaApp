@@ -1,0 +1,1 @@
+/ideaApp/api/v1/idea
